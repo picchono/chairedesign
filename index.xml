@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Home on Chaire Design Jean Prouvé</title>
+    <link>https://chaire-design.fr/</link>
+    <description>Recent content in Home on Chaire Design Jean Prouvé</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr</language>
+    <copyright>CNAM.design</copyright>
+    <lastBuildDate>Sat, 24 Oct 2020 00:55:28 +0200</lastBuildDate><atom:link href="https://chaire-design.fr/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Médium en design</title>
+      <link>https://chaire-design.fr/seminar/medium-en-design/</link>
+      <pubDate>Sat, 26 Dec 2020 16:30:12 +0200</pubDate>
+      
+      <guid>https://chaire-design.fr/seminar/medium-en-design/</guid>
+      <description>The medium</description>
+    </item>
+    
+    <item>
+      <title>Pierre Lévy</title>
+      <link>https://chaire-design.fr/team/pierre_levy/</link>
+      <pubDate>Sat, 26 Dec 2020 16:30:12 +0200</pubDate>
+      
+      <guid>https://chaire-design.fr/team/pierre_levy/</guid>
+      <description>Pierre Lévy est Professeur au Conservatoire national des arts et métiers (CNAM), titulaire de la Chaire de Design Jean Prouvé, et chercheur au laboratoire Dicen-IDF. Il s&#39;intéresse à la correspondance entre théories et pratiques du design, notament pour des pratiques et des sciences transformatrices. Ses recherches portent principalement sur les théories de l&#39;incarnation, et la philosophie et la culture japonaise en relation avec le design du quotidien. Il est titulaire d&#39;un master en génie mécanique (UT Compiègne, France), d&#39;un doctorat en science du kansei (de l&#39;affectif) (Université de Tsukuba, Japon) et d&#39;une HDR en sciences de l&#39;information et de la communication (UT Compiègne, France).</description>
+    </item>
+    
+    <item>
+      <title>Chaire Design Jean Prouvé</title>
+      <link>https://chaire-design.fr/about/creation-chaire-design/</link>
+      <pubDate>Sun, 18 Nov 2018 13:00:33 +0100</pubDate>
+      
+      <guid>https://chaire-design.fr/about/creation-chaire-design/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
