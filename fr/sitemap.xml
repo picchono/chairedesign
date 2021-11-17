@@ -2,6 +2,32 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://chaire-design.fr/seminar/medium-en-design/</loc>
+    <lastmod>2021-11-17T16:30:12+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://chaire-design.fr/en/seminar/medium-en-design/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://chaire-design.fr/seminar/medium-en-design/"
+                />
+  </url><url>
+    <loc>https://chaire-design.fr/seminar/</loc>
+    <lastmod>2021-11-17T00:55:28+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://chaire-design.fr/en/seminar/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://chaire-design.fr/seminar/"
+                />
+  </url><url>
     <loc>https://chaire-design.fr/tags/chaire/</loc>
     <lastmod>2021-01-16T20:03:12+02:00</lastmod>
     <xhtml:link
@@ -119,19 +145,6 @@
                 href="https://chaire-design.fr/about/"
                 />
   </url><url>
-    <loc>https://chaire-design.fr/seminar/medium-en-design/</loc>
-    <lastmod>2020-12-26T16:30:12+02:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://chaire-design.fr/en/seminar/medium-en-design/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://chaire-design.fr/seminar/medium-en-design/"
-                />
-  </url><url>
     <loc>https://chaire-design.fr/team/pierre_levy/</loc>
     <lastmod>2020-12-26T16:30:12+02:00</lastmod>
     <xhtml:link
@@ -195,19 +208,6 @@
                 rel="alternate"
                 hreflang="fr"
                 href="https://chaire-design.fr/tags/kansei/"
-                />
-  </url><url>
-    <loc>https://chaire-design.fr/seminar/</loc>
-    <lastmod>2020-10-24T00:55:28+02:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://chaire-design.fr/en/seminar/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://chaire-design.fr/seminar/"
                 />
   </url><url>
     <loc>https://chaire-design.fr/team/</loc>
