@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>linkedin on Chaire Design Jean Prouvé</title>
+    <link>https://chaire-design.fr/en/tags/linkedin/</link>
+    <description>Recent content in linkedin on Chaire Design Jean Prouvé</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>CNAM.design</copyright>
+    <lastBuildDate>Sat, 01 Jan 2000 20:03:12 +0200</lastBuildDate><atom:link href="https://chaire-design.fr/en/tags/linkedin/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Contact</title>
+      <link>https://chaire-design.fr/en/contact/</link>
+      <pubDate>Sat, 01 Jan 2000 20:03:12 +0200</pubDate>
+      
+      <guid>https://chaire-design.fr/en/contact/</guid>
+      <description>Conservatoire National des Arts et Métiers 292 rue Saint-Martin
+F-75141 Paris Cedex 03
+FRANCE</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://chaire-design.fr/en/intern/</link>
+      <pubDate>Sat, 01 Jan 2000 20:03:12 +0200</pubDate>
+      
+      <guid>https://chaire-design.fr/en/intern/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
