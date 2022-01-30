@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Médiums en design on Chaire Design Jean Prouvé</title>
+    <link>https://chaire-design.fr/seminar/mediums-en-design/</link>
+    <description>Recent content in Médiums en design on Chaire Design Jean Prouvé</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr</language>
+    <copyright>CNAM.design</copyright>
+    <lastBuildDate>Wed, 17 Nov 2021 16:30:12 +0200</lastBuildDate><atom:link href="https://chaire-design.fr/seminar/mediums-en-design/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Médiums en Design S01E01</title>
+      <link>https://chaire-design.fr/seminar/mediums-en-design/s01e01/</link>
+      <pubDate>Fri, 19 Feb 2021 16:30:12 +0200</pubDate>
+      
+      <guid>https://chaire-design.fr/seminar/mediums-en-design/s01e01/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
