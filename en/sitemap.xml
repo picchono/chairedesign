@@ -2,6 +2,19 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://chaire-design.fr/en/seminar/mediums-en-design/s01e01/</loc>
+    <lastmod>2022-01-19T17:00:12+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://chaire-design.fr/seminar/mediums-en-design/s01e01/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://chaire-design.fr/en/seminar/mediums-en-design/s01e01/"
+                />
+  </url><url>
     <loc>https://chaire-design.fr/en/seminar/mediums-en-design/</loc>
     <lastmod>2021-11-17T16:30:12+02:00</lastmod>
     <xhtml:link
@@ -13,32 +26,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://chaire-design.fr/en/seminar/mediums-en-design/"
-                />
-  </url><url>
-    <loc>https://chaire-design.fr/en/seminar/mediums-en-design/design-with-care_0222/</loc>
-    <lastmod>2021-02-19T16:30:12+02:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://chaire-design.fr/seminar/mediums-en-design/design-with-care_0222/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://chaire-design.fr/en/seminar/mediums-en-design/design-with-care_0222/"
-                />
-  </url><url>
-    <loc>https://chaire-design.fr/en/seminar/mediums-en-design/s01e01/</loc>
-    <lastmod>2021-02-19T16:30:12+02:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://chaire-design.fr/seminar/mediums-en-design/s01e01/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://chaire-design.fr/en/seminar/mediums-en-design/s01e01/"
                 />
   </url><url>
     <loc>https://chaire-design.fr/en/tags/chaire/</loc>
