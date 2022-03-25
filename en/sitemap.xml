@@ -2,6 +2,19 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://chaire-design.fr/en/seminar/mediums-en-design/s01e03/</loc>
+    <lastmod>2022-03-30T17:00:12+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://chaire-design.fr/seminar/mediums-en-design/s01e03/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://chaire-design.fr/en/seminar/mediums-en-design/s01e03/"
+                />
+  </url><url>
     <loc>https://chaire-design.fr/en/seminar/mediums-en-design/s01e02/</loc>
     <lastmod>2022-02-16T17:00:12+02:00</lastmod>
     <xhtml:link
