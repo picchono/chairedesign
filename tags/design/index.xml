@@ -1,21 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>design on Chaire Design Jean Prouvé</title>
-    <link>https://chaire-design.fr/tags/design/</link>
-    <description>Recent content in design on Chaire Design Jean Prouvé</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>fr</language>
-    <copyright>CNAM.design</copyright>
-    <lastBuildDate>Sat, 24 Oct 2020 00:55:28 +0200</lastBuildDate><atom:link href="https://chaire-design.fr/tags/design/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Home</title>
-      <link>https://chaire-design.fr/</link>
-      <pubDate>Sat, 24 Oct 2020 00:55:28 +0200</pubDate>
-      
-      <guid>https://chaire-design.fr/</guid>
-      <description>La Chaire de Design Jean Prouvé est un lieu bienveillant consacré au développement de la pratique et de la recherche en design. Elle s’engage dans un programme combinant recherche, enseignement, et projets en design, avec comme horizon la transformation sociale par celle des pratiques du quotidien.</description>
-    </item>
-    
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>design on Chaire de Design Jean Prouvé</title><link>https://chaire-design.fr/tags/design/</link><description>Recent content in design on Chaire de Design Jean Prouvé</description><generator>Hugo -- gohugo.io</generator><language>fr</language><lastBuildDate>Wed, 18 May 2022 18:00:00 +0200</lastBuildDate><atom:link href="https://chaire-design.fr/tags/design/index.xml" rel="self" type="application/rss+xml"/><item><title>Lecture inaugurale</title><link>https://chaire-design.fr/event/lecture-inaugurale/</link><pubDate>Wed, 18 May 2022 18:00:00 +0200</pubDate><guid>https://chaire-design.fr/event/lecture-inaugurale/</guid><description>Transcription de la leçon inaugurale
+Le moment du design Leçon inaugurale de la Chaire de Design Jean Prouvé, 18 mai 2022
+Merci Ruedi pour cette introduction chaleureuse. Ton parrainage de la chaire ne peut être qu’un bon présage pour ce qu’elle peut et va devenir.
+Cher administrateur général, cher Marc, cher Jean-Claude, chers collègues, chers amis, chère famille, chers auditeurs présents ici ou quelque part en ligne, c’est un grand plaisir de pouvoir débuter cette leçon inaugurale aujourd’hui au CNAM.</description></item><item><title>Chaire de design Jean Prouvé</title><link>https://chaire-design.fr/about/</link><pubDate>Wed, 01 Sep 2021 16:00:00 +0200</pubDate><guid>https://chaire-design.fr/about/</guid><description/></item><item><title>Home</title><link>https://chaire-design.fr/</link><pubDate>Sat, 24 Oct 2020 00:55:28 +0200</pubDate><guid>https://chaire-design.fr/</guid><description/></item></channel></rss>
